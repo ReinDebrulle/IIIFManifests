@@ -1,0 +1,236 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://imagehub.mskgent.be/iiif/3/2657/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "The Holy Face"
+        ],
+        "nl": [
+            "Het Heilige Aanschijn"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Title"
+                ],
+                "nl": [
+                    "Titel"
+                ]
+            },
+            "value": {
+                "en": [
+                    "The Holy Face"
+                ],
+                "nl": [
+                    "Het Heilige Aanschijn"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Creator"
+                ],
+                "nl": [
+                    "Vervaardiger"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Schilder: Rouault, Georges"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Date created"
+                ],
+                "nl": [
+                    "Vervaardigingsdatum"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1953"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Inventory no."
+                ],
+                "nl": [
+                    "Inventarisnummer"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1960-O"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Description"
+                ],
+                "nl": [
+                    "Beschrijving"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Het heilige aanschijn toont ons het gelaat van Christus, afgebeeld op het doek van Veronica. Volgens de overlevering zou een vrouw tijdens de kruisweg het zweet en bloed van Christus’ gelaat hebben gewist. De afdruk die op het doek achterbleef gold als de enige en ware afbeelding van Christus. De vrouw kreeg pas later de naam Veronica, een verbastering van het Latijns-Griekse ‘vera eikon’, wat ware afbeelding betekent. Om het menselijk lijden en het onrecht in de wereld uit te drukken vond de Franse schilder Georges Rouault zowel inspiratie in bijbelse verhalen als in eigentijdse gebeurtenissen. Christus als de verpersoonlijking van dat menselijk lijden komt in zijn oeuvre herhaaldelijk terug.\nVan Het heilige aanschijn zijn niet minder dan acht verschillende versies van hem bekend."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "IIIF manifest"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"https://imagehub.mskgent.be/iiif/3/2657/manifest.json\">https://imagehub.mskgent.be/iiif/3/2657/manifest.json</a>"
+                ]
+            }
+        }
+    ],
+    "viewingDirection": "left-to-right",
+    "behavior": [
+        "individuals"
+    ],
+    "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ],
+            "nl": [
+                "Naamsvermelding"
+            ]
+        },
+        "value": {
+            "en": [
+                "Museum of Fine Arts Ghent<p>© SABAM Belgium 2023<a href=\"https://rightsstatements.org/vocab/InC/1.0/\"><img src=\"https://rightsstatements.org/files/buttons/InC.dark-white-interior.png\"/></a></p><p>The original TIFF files of this work, in highest resolution and color-coded, can be ordered from <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo). If this image is used for a printed publication or a commercial product, MSK Gent would appreciate having three copies sent to MSK Gent, Hofbouwlaan 28, B-9000 Gent. More information: <a href=\"mailto:museum.msk@stad.gent\">museum.msk@stad.gent</a>.</p>"
+            ],
+            "nl": [
+                "Museum voor Schone Kunsten Gent<p>© SABAM Belgium 2023<a href=\"https://rightsstatements.org/vocab/InC/1.0/\"><img src=\"https://rightsstatements.org/files/buttons/InC.dark-white-interior.png\"/></a></p><p>De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo). Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan vraagt MSK Gent dat drie exemplaren worden toegestuurd naar MSK Gent, Hofbouwlaan 28, B-9000 Gent. Meer info: <a href=\"mailto:museum.msk@stad.gent\">museum.msk@stad.gent</a>.</p>"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https://imagehub.mskgent.be/iiif/3/2657/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "1"
+                ]
+            },
+            "height": 3817,
+            "width": 2761,
+            "items": [
+                {
+                    "id": "https://imagehub.mskgent.be/iiif/3/2657/canvas/1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://imagehub.mskgent.be/iiif/3/2657/annotation/1-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://imagehub.mskgent.be/iiif/2/public%2F2657.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "@id": "https://imagehub.mskgent.be/iiif/2/public%2F2657.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ],
+                                "height": 3817,
+                                "width": 2761
+                            },
+                            "target": "https://imagehub.mskgent.be/iiif/3/2657/canvas/1"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://imagehub.mskgent.be/iiif/2/public%2F2657.tif/full/400,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://imagehub.mskgent.be/iiif/2/public%2F2657.tif",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://imagehub.mskgent.be/iiif/3/2657/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "2"
+                ]
+            },
+            "height": 8160,
+            "width": 5892,
+            "items": [
+                {
+                    "id": "https://imagehub.mskgent.be/iiif/3/2657/canvas/2/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://imagehub.mskgent.be/iiif/3/2657/annotation/2-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://imagehub.mskgent.be/iiif/2/public%2F2201.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "@id": "https://imagehub.mskgent.be/iiif/2/public%2F2201.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ],
+                                "height": 8160,
+                                "width": 5892
+                            },
+                            "target": "https://imagehub.mskgent.be/iiif/3/2657/canvas/2"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://imagehub.mskgent.be/iiif/2/public%2F2201.tif/full/400,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://imagehub.mskgent.be/iiif/2/public%2F2201.tif",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
