@@ -26,7 +26,7 @@
     },
     "viewingDirection": "left-to-right",
     "behavior": [
-        "paged"
+        "individuals"
     ],
     "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
     "requiredStatement": {
