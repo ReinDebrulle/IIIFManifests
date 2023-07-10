@@ -19,7 +19,7 @@
             },
             "value": {
                 "none": [
-                    "<a href=\"https://raw.githubusercontent.com/ReinDebrulle/IIIFManifests/main/Letter%20of%20John%20Low%20to%20his%20sister%20Jeannie%20-%201914.08.09.json">IIIF Manifest</a>"
+                    "<a href=\"https://raw.githubusercontent.com/ReinDebrulle/IIIFManifests/main/Letter%20of%20John%20Low%20to%20his%20sister%20Jeannie%20-%201914.08.09.json/">IIIF Manifest</a>"
                 ]
             }
         }
