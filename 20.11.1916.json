@@ -1,0 +1,119 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/107/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            ""
+        ]
+    },
+    "metadata": {
+        "manifest_url": {
+            "label": {
+                "none": [
+                    "IIIF manifest"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"https://imagehub.vlaamsekunstcollectie.be/iiif/3/107/manifest.json\">https://imagehub.vlaamsekunstcollectie.be/iiif/3/107/manifest.json</a>"
+                ]
+            }
+        }
+    },
+    "viewingDirection": "left-to-right",
+    "behavior": [
+        "individuals"
+    ],
+    "rights": "https://rightsstatements.org/page/UND/1.0/",
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ],
+            "nl": [
+                "Naamsvermelding"
+            ]
+        },
+        "value": {
+            "en": [
+                "<a href=\"http://rightsstatements.org/vocab/UND/1.0/\"><img src=\"https://vlaamsekunstcollectie.be/volumes/general/copyrightundetermined.png\"/></a><p>Passchendaele Museum 1917</p><p>The original TIFF files of this work, in highest resolution and color-coded, can be ordered from <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo). If this image is used for a printed publication or a commercial product, we would appreciate having three copies sent to us.</p>"
+            ],
+            "nl": [
+                "<a href=\"http://rightsstatements.org/vocab/UND/1.0/\"><img src=\"https://vlaamsekunstcollectie.be/volumes/general/copyrightundetermined.png\"/></a><p>Passchendaele Museum 1917</p><p>De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo). Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan stellen we het op prijs dat drie exemplaren worden toegestuurd naar ons.</p>"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/107/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Inventory no."
+                        ],
+                        "nl": [
+                            "Inventarisnummer"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "MZ 02279-15"
+                        ]
+                    }
+                }
+            ],
+            "height": 2804,
+            "width": 1832,
+            "items": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/107/canvas/1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/107/annotation/1-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F107.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F107.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ],
+                                "height": 2804,
+                                "width": 1832
+                            },
+                            "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/107/canvas/1"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F107.tif/full/400,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F107.tif",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
