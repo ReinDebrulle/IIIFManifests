@@ -3,8 +3,11 @@
     "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/107/manifest.json",
     "type": "Manifest",
     "label": {
-        "none": [
-            ""
+        "en": [
+            "Letter of John Low to his sister Jeannie - 1916.11.20"
+        ],
+        "nl": [
+            "Brief van John Low aan zijn zus Jeannie - 20.11.1914"
         ]
     },
     "metadata": {
