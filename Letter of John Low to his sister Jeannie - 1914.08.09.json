@@ -1,0 +1,122 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/103/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Letter of John Low to his sister Jeannie - 1914.08.09"
+        ],
+        "nl": [
+            "Brief van John Low aan zijn zus sister Jeannie - 09.08.1914"
+        ],
+    },
+    "metadata": {
+        "manifest_url": {
+            "label": {
+                "none": [
+                    "IIIF manifest"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"https://imagehub.vlaamsekunstcollectie.be/iiif/3/103/manifest.json\">https://imagehub.vlaamsekunstcollectie.be/iiif/3/103/manifest.json</a>"
+                ]
+            }
+        }
+    },
+    "viewingDirection": "left-to-right",
+    "behavior": [
+        "paged"
+    ],
+    "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ],
+            "nl": [
+                "Naamsvermelding"
+            ]
+        },
+        "value": {
+            "en": [
+                "<p><a href="http://creativecommons.org/publicdomain/mark/1.0/"><img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"style="border-style: none;" alt="Public Domain Mark"/></a><br/>Passchendaele Museum 1917<br/>For more information about the use of these images, you can send an email to <a href=\"mailto:kenniscentrum@zonnebeke.be\">kenniscentrum@zonnebeke.be</a>.</p>"
+            ],
+            "nl": [
+                "<p><a href="http://creativecommons.org/publicdomain/mark/1.0/"><img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"style="border-style: none;" alt="Public Domain Mark"/></a><br/>Passchendaele Museum 1917<br/>Voor meer informatie over het gebruik van deze beelden kan u een mail sturen naar <a href=\"mailto:kenniscentrum@zonnebeke.be\">kenniscentrum@zonnebeke.be</a>.</p>"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/103/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Inventory no."
+                        ],
+                        "nl": [
+                            "Inventarisnummer"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "MZ 02279-03"
+                        ]
+                    }
+                }
+            ],
+            "height": 1998,
+            "width": 1245,
+            "items": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/103/canvas/1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/103/annotation/1-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F103.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F103.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ],
+                                "height": 1998,
+                                "width": 1245
+                            },
+                            "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/103/canvas/1"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F103.tif/full/400,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F103.tif",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
