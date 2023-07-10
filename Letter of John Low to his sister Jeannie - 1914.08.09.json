@@ -117,6 +117,231 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/103/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Inventory no."
+                        ],
+                        "nl": [
+                            "Inventarisnummer"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "MZ 02279-03"
+                        ]
+                    }
+                }
+            ],
+            "height": 1998,
+            "width": 1245,
+            "items": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/103/canvas/1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/103/annotation/1-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F103.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F103.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ],
+                                "height": 1998,
+                                "width": 1245
+                            },
+                            "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/103/canvas/1"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F103.tif/full/400,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F103.tif",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/105/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Inventory no."
+                        ],
+                        "nl": [
+                            "Inventarisnummer"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "MZ 02279-03"
+                        ]
+                    }
+                }
+            ],
+            "height": 2001,
+            "width": 1242,
+            "items": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/105/canvas/1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/105/annotation/1-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F105.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F105.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ],
+                                "height": 2001,
+                                "width": 1242
+                            },
+                            "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/105/canvas/1"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F105.tif/full/400,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F105.tif",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/106/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Inventory no."
+                        ],
+                        "nl": [
+                            "Inventarisnummer"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "MZ 02279-03"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Description"
+                        ],
+                        "nl": [
+                            "Beschrijving"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "Brief van John Low aan zijn zus Jeannie Ann Low van 9 augustus 1914. Deze brief van twee pagina's gaat over de mobilisatie in Aberdeen en de commotie die het veroorzaakte."
+                        ]
+                    }
+                }
+            ],
+            "height": 2013,
+            "width": 1251,
+            "items": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/106/canvas/1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/106/annotation/1-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F106.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F106.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ],
+                                "height": 2013,
+                                "width": 1251
+                            },
+                            "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/106/canvas/1"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F106.tif/full/400,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F106.tif",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
