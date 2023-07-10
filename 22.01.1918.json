@@ -3,8 +3,11 @@
     "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/112/manifest.json",
     "type": "Manifest",
     "label": {
-        "none": [
-            ""
+        "en": [
+            "Letter of Ada to John's sister Jeannie - 1918.01.22"
+        ],
+        "nl": [
+            "Brief van Ada aan Johns zus Jeannie - 22.01.1918"
         ]
     },
     "metadata": {
@@ -25,7 +28,7 @@
     "behavior": [
         "individuals"
     ],
-    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
     "requiredStatement": {
         "label": {
             "en": [
