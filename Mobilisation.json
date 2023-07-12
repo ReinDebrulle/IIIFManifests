@@ -3,8 +3,11 @@
     "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/127/manifest.json",
     "type": "Manifest",
     "label": {
-        "none": [
-            ""
+        "en": [
+            "Mobilization of the British army, 1914"
+        ],
+        "nl": [
+            "Mobilisatie van het Britse leger, 1914"
         ]
     },
     "metadata": {
