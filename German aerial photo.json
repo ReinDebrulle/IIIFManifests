@@ -3,8 +3,11 @@
     "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/123/manifest.json",
     "type": "Manifest",
     "label": {
-        "none": [
-            ""
+        "en": [
+            "German aerial photo of the Oude Zonnebekestraat west of Zandvoorde"
+        ],
+        "nl": [
+            "Duitse luchtfoto van de Oude Zonnebekestraat, ten westen van Zandvoorde"
         ]
     },
     "metadata": {
