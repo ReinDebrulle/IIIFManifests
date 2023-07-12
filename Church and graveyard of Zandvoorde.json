@@ -3,8 +3,11 @@
     "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/121/manifest.json",
     "type": "Manifest",
     "label": {
-        "none": [
-            ""
+        "en": [
+            "Damaged church and graveyard of Zandvoorde"
+        ],
+        "nl": [
+            "Beschadigde kerk en begraafplaats van Zandvoorde"
         ]
     },
     "metadata": {
