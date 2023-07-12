@@ -3,8 +3,11 @@
     "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/125/manifest.json",
     "type": "Manifest",
     "label": {
-        "none": [
-            ""
+        "en": [
+            "English field graves near Herenthage domain"
+        ],
+        "nl": [
+            "Engelse frontgraven bij domein Herenthage"
         ]
     },
     "metadata": {
