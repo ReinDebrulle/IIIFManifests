@@ -3,8 +3,11 @@
     "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/124/manifest.json",
     "type": "Manifest",
     "label": {
-        "none": [
-            ""
+        "en": [
+            "Damaged bunker in an unknown location"
+        ],
+        "nl": [
+            "Beschadigde bunker op een onbekende locatie"
         ]
     },
     "metadata": {
