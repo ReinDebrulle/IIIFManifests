@@ -49,35 +49,48 @@
     },
     "items": [
         {
-            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/128/canvas/1",
+            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/139/canvas/1",
             "type": "Canvas",
             "label": {
-                "en": [
-            "Tyne Cot Cemetery and Memorial"
-        ],
-        "nl": [
-            "Militaire begraafplaats en herdenkingsmonument Tyne Cot"
-        ]
+                "none": [
+                    ""
+                ]
             },
-            "metadata": {},
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Description"
+                        ],
+                        "nl": [
+                            "Beschrijving"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "Tyne Cot Cemetery, Zonnebeke"
+                        ]
+                    }
+                }
+            ],
             "height": 3072,
             "width": 4080,
             "items": [
                 {
-                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/128/canvas/1/1",
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/139/canvas/1/1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/128/annotation/1-image",
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/139/annotation/1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/private%2F128.tif/full/full/0/default.jpg",
+                                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F139.tif/full/full/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "service": [
                                     {
-                                        "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/private%2F128.tif",
+                                        "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F139.tif",
                                         "@type": "ImageService2",
                                         "profile": "http://iiif.io/api/image/2/level1.json"
                                     }
@@ -85,19 +98,19 @@
                                 "height": 3072,
                                 "width": 4080
                             },
-                            "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/128/canvas/1"
+                            "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/139/canvas/1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/private%2F128.tif/full/400,/0/default.jpg",
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F139.tif/full/400,/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "service": [
                         {
-                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/private%2F128.tif",
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F139.tif",
                             "@type": "ImageService2",
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
@@ -106,32 +119,48 @@
             ]
         },
         {
-            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/130/canvas/1",
+            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/140/canvas/1",
             "type": "Canvas",
             "label": {
                 "none": [
                     ""
                 ]
             },
-            "metadata": {},
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Description"
+                        ],
+                        "nl": [
+                            "Beschrijving"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "Tyne Cot Cemetery, Zonnebeke"
+                        ]
+                    }
+                }
+            ],
             "height": 3072,
             "width": 4080,
             "items": [
                 {
-                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/130/canvas/1/1",
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/140/canvas/1/1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/130/annotation/1-image",
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/140/annotation/1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/private%2F130.tif/full/full/0/default.jpg",
+                                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F140.tif/full/full/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "service": [
                                     {
-                                        "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/private%2F130.tif",
+                                        "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F140.tif",
                                         "@type": "ImageService2",
                                         "profile": "http://iiif.io/api/image/2/level1.json"
                                     }
@@ -139,19 +168,19 @@
                                 "height": 3072,
                                 "width": 4080
                             },
-                            "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/128/canvas/1"
+                            "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/140/canvas/1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/private%2F130.tif/full/400,/0/default.jpg",
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F140.tif/full/400,/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "service": [
                         {
-                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/private%2F130.tif",
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F140.tif",
                             "@type": "ImageService2",
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
@@ -160,32 +189,48 @@
             ]
         },
         {
-            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/131/canvas/1",
+            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/141/canvas/1",
             "type": "Canvas",
             "label": {
                 "none": [
                     ""
                 ]
             },
-            "metadata": {},
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Description"
+                        ],
+                        "nl": [
+                            "Beschrijving"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "Tyne Cot Cemetery, Zonnebeke"
+                        ]
+                    }
+                }
+            ],
             "height": 3072,
             "width": 4080,
             "items": [
                 {
-                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/131/canvas/1/1",
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/141/canvas/1/1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/131/annotation/1-image",
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/141/annotation/1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/private%2F131.tif/full/full/0/default.jpg",
+                                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F141.tif/full/full/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "service": [
                                     {
-                                        "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/private%2F131.tif",
+                                        "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F141.tif",
                                         "@type": "ImageService2",
                                         "profile": "http://iiif.io/api/image/2/level1.json"
                                     }
@@ -193,19 +238,89 @@
                                 "height": 3072,
                                 "width": 4080
                             },
-                            "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/128/canvas/1"
+                            "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/141/canvas/1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/private%2F131.tif/full/400,/0/default.jpg",
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F141.tif/full/400,/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "service": [
                         {
-                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/private%2F131.tif",
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F141.tif",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/138/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Description"
+                        ],
+                        "nl": [
+                            "Beschrijving"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "Tyne Cot Cemetery, Zonnebeke"
+                        ]
+                    }
+                }
+            ],
+            "height": 3072,
+            "width": 4080,
+            "items": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/138/canvas/1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/138/annotation/1-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F138.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F138.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ],
+                                "height": 3072,
+                                "width": 4080
+                            },
+                            "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/138/canvas/1"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F138.tif/full/400,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F138.tif",
                             "@type": "ImageService2",
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
