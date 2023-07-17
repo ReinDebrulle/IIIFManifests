@@ -3,8 +3,11 @@
     "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/128/manifest.json",
     "type": "Manifest",
     "label": {
-        "none": [
-            ""
+        "en": [
+            "Tyne Cot Cemetery and Memorial"
+        ],
+        "nl": [
+            "Militaire begraafplaats en herdenkingsmonument Tyne Cot"
         ]
     },
     "metadata": {
