@@ -3,8 +3,11 @@
     "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/143/manifest.json",
     "type": "Manifest",
     "label": {
-        "none": [
-            ""
+        "en": [
+            "Army Sercive Corps Training, Aldershot (1917)"
+        ],
+        "nl": [
+            "Army Sercive Corps Training, Aldershot (1917)"
         ]
     },
     "metadata": {
