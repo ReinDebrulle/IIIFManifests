@@ -3,8 +3,11 @@
     "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/144/manifest.json",
     "type": "Manifest",
     "label": {
-        "none": [
-            ""
+        "en": [
+            "Weekly casualty lists, daily list of January 11th 1918"
+        ],
+        "nl": [
+            "Wekelijkse lijst van slachtoffers, lijst van 11 januari 1918"
         ]
     },
     "metadata": {
@@ -25,7 +28,7 @@
     "behavior": [
         "individuals"
     ],
-    "rights": "https://rightsstatements.org/page/UND/1.0/",
+    "rights": "http://creativecommons.org/licenses/by/4.0/",
     "requiredStatement": {
         "label": {
             "en": [
