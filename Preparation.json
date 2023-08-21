@@ -1,0 +1,414 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/154/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Orders for the minor operations to be carried out on Circus Point on the night 9/10th of January 1918"
+        ]
+    },
+    "metadata": {
+        "manifest_url": {
+            "label": {
+                "none": [
+                    "IIIF manifest"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"https://imagehub.vlaamsekunstcollectie.be/iiif/3/154/manifest.json\">https://imagehub.vlaamsekunstcollectie.be/iiif/3/154/manifest.json</a>"
+                ]
+            }
+        }
+    },
+    "viewingDirection": "left-to-right",
+    "behavior": [
+        "individuals"
+    ],
+    "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ],
+            "nl": [
+                "Naamsvermelding"
+            ]
+        },
+        "value": {
+            "en": [
+                "<p><a href=\"http://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/88x31.png\"/></a></p><p><a href=\"https://discovery.nationalarchives.gov.uk/details/r/C14055027\">The National Archives</a></p>"
+            ],
+            "nl": [
+                "<p><a href=\"http://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/88x31.png\"/></a></p><p><a href=\"https://discovery.nationalarchives.gov.uk/details/r/C14055027\">The National Archives</a></p>"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/154/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Inventory no."
+                        ],
+                        "nl": [
+                            "Inventarisnummer"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "WO 95/2531/2"
+                        ]
+                    }
+                }
+            ],
+            "height": 1024,
+            "width": 724,
+            "items": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/154/canvas/1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/154/annotation/1-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F154.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F154.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ],
+                                "height": 1024,
+                                "width": 724
+                            },
+                            "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/154/canvas/1"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F154.tif/full/400,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F154.tif",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+      {
+            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/155/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Inventory no."
+                        ],
+                        "nl": [
+                            "Inventarisnummer"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "WO 95/2531/2"
+                        ]
+                    }
+                }
+            ],
+            "height": 1024,
+            "width": 724,
+            "items": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/155/canvas/1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/155/annotation/1-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F155.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F155.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ],
+                                "height": 1024,
+                                "width": 724
+                            },
+                            "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/155/canvas/1"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F155.tif/full/400,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F155.tif",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+      {
+            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/156/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Inventory no."
+                        ],
+                        "nl": [
+                            "Inventarisnummer"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "WO 95/2531/2"
+                        ]
+                    }
+                }
+            ],
+            "height": 1024,
+            "width": 724,
+            "items": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/156/canvas/1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/156/annotation/1-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F156.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F156.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ],
+                                "height": 1024,
+                                "width": 724
+                            },
+                            "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/156/canvas/1"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F156.tif/full/400,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F156.tif",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+      {
+            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/157/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Inventory no."
+                        ],
+                        "nl": [
+                            "Inventarisnummer"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "WO 95/2531/2"
+                        ]
+                    }
+                }
+            ],
+            "height": 1024,
+            "width": 724,
+            "items": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/157/canvas/1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/157/annotation/1-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F157.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F157.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ],
+                                "height": 1024,
+                                "width": 724
+                            },
+                            "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/157/canvas/1"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F157.tif/full/400,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F157.tif",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        },
+      {
+            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/158/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Inventory no."
+                        ],
+                        "nl": [
+                            "Inventarisnummer"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "WO 95/2531/2"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Description"
+                        ],
+                        "nl": [
+                            "Beschrijving"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "Report on minor operations carried out on night 9th/10th January 1918"
+                        ]
+                    }
+                }
+            ],
+            "height": 1024,
+            "width": 724,
+            "items": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/158/canvas/1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/158/annotation/1-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F158.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F158.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ],
+                                "height": 1024,
+                                "width": 724
+                            },
+                            "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/158/canvas/1"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F158.tif/full/400,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F158.tif",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
