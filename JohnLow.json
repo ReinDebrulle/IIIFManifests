@@ -1,0 +1,119 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/159/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Picture of John Low"
+        ]
+    },
+    "metadata": {
+        "manifest_url": {
+            "label": {
+                "none": [
+                    "IIIF manifest"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"https://imagehub.vlaamsekunstcollectie.be/iiif/3/159/manifest.json\">https://imagehub.vlaamsekunstcollectie.be/iiif/3/159/manifest.json</a>"
+                ]
+            }
+        }
+    },
+    "viewingDirection": "left-to-right",
+    "behavior": [
+        "individuals"
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ],
+            "nl": [
+                "Naamsvermelding"
+            ]
+        },
+        "value": {
+            "en": [
+                "<p><a href=\"http://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/88x31.png\"/></a></p><p><a href=\"https://passchendaele.be\">Passchendaele Museum 1917</a></p><p>For more information about the use of these images, you can send an email to <a href=\"mailto:kenniscentrum@zonnebeke.be\">kenniscentrum@zonnebeke.be</a>.</p>"
+            ],
+            "nl": [
+                "<p><a href=\"http://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/88x31.png\"/></a></p><p><a href=\"https://passchendaele.be\">Passchendaele Museum 1917</a></p><p>Voor meer informatie over het gebruik van deze beelden kan u een mail sturen naar <a href=\"mailto:kenniscentrum@zonnebeke.be\">kenniscentrum@zonnebeke.be</a>.</p>"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/159/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Description"
+                        ],
+                        "nl": [
+                            "Beschrijving"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "Picture of John Low"
+                        ]
+                    }
+                }
+            ],
+            "height": 847,
+            "width": 697,
+            "items": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/159/canvas/1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/159/annotation/1-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F159.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F159.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ],
+                                "height": 847,
+                                "width": 697
+                            },
+                            "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/159/canvas/1"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F159.tif/full/400,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F159.tif",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
