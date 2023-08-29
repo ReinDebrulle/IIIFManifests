@@ -150,26 +150,6 @@
             "width": 12166,
             "items": [
                 {
-              "id": "https://dam.museabrugge.be/iiif/3/513/canvas/1/2",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F160.tif/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 820,
-                "height": 835,
-                "service": [
-                                    {
-                                        "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F160.tif",
-                                        "@type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level1.json"
-                                    }
-                                ]
-              },
-              "target": "https://dam.museabrugge.be/iiif/3/513/canvas/1#xywh=9930,6113,365,350"
-            },
-                {
                     "id": "https://dam.museabrugge.be/iiif/3/513/canvas/1/1",
                     "type": "AnnotationPage",
                     "items": [
@@ -194,7 +174,27 @@
                             "target": "https://dam.museabrugge.be/iiif/3/513/canvas/1"
                         }
                     ]
-                }
+                },
+                {
+              "id": "https://dam.museabrugge.be/iiif/3/513/canvas/1/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F160.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 820,
+                "height": 835,
+                "service": [
+                                    {
+                                        "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F160.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ]
+              },
+              "target": "https://dam.museabrugge.be/iiif/3/513/canvas/1#xywh=9930,6113,365,350"
+            }
             ],
             "thumbnail": [
                 {
