@@ -150,6 +150,26 @@
             "width": 12166,
             "items": [
                 {
+              "id": "https://dam.museabrugge.be/iiif/3/513/canvas/1/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F160.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 820,
+                "height": 835,
+                "service": [
+                  {
+                    "id": "https://iiif.io/api/image/3.0/example/reference/899da506920824588764bc12b10fc800-bnf_chateauroux_miniature",
+                    "type": "ImageService1",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://dam.museabrugge.be/iiif/3/513/canvas/1#xywh=9930,6113,365,350"
+            },
+                {
                     "id": "https://dam.museabrugge.be/iiif/3/513/canvas/1/1",
                     "type": "AnnotationPage",
                     "items": [
@@ -174,27 +194,7 @@
                             "target": "https://dam.museabrugge.be/iiif/3/513/canvas/1"
                         }
                     ]
-                },
-                {
-              "id": "https://dam.museabrugge.be/iiif/3/513/canvas/1/2",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F160.tif/full/800,/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "width": 820,
-                "height": 835,
-                "service": [
-                  {
-                    "id": "https://iiif.io/api/image/3.0/example/reference/899da506920824588764bc12b10fc800-bnf_chateauroux_miniature",
-                    "type": "ImageService1",
-                    "profile": "level2"
-                  }
-                ]
-              },
-              "target": "https://dam.museabrugge.be/iiif/3/513/canvas/1#xywh=9930,6113,365,350"
-            }
+                }
             ],
             "thumbnail": [
                 {
