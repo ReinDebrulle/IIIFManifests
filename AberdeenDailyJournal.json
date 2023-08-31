@@ -1,0 +1,119 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/161/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "The Aberdeen Daily Journal, page 7 (29.07.1914)"
+        ]
+    },
+    "metadata": {
+        "manifest_url": {
+            "label": {
+                "none": [
+                    "IIIF manifest"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"https://imagehub.vlaamsekunstcollectie.be/iiif/3/161/manifest.json\">https://imagehub.vlaamsekunstcollectie.be/iiif/3/161/manifest.json</a>"
+                ]
+            }
+        }
+    },
+    "viewingDirection": "left-to-right",
+    "behavior": [
+        "individuals"
+    ],
+    "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ],
+            "nl": [
+                "Naamsvermelding"
+            ]
+        },
+        "value": {
+            "en": [
+                "<a href=\"https://rightsstatements.org/vocab/InC/1.0/\"><img src=\"https://rightsstatements.org/files/buttons/InC.dark-white-interior.png\"/></a><p>© D.C.Thomson & Co. Ltd.</p><p>The image can be found on the site of <a href=\"https://www.britishnewspaperarchive.co.uk/viewer/bl/0000576/19140729/050/0007\">The British Newspaper Archive</a>. If you want to use this image, please contact D.C.Thomson & Co. Ltd.</p>"
+            ],
+            "nl": [
+                "<a href=\"https://rightsstatements.org/vocab/InC/1.0/\"><img src=\"https://rightsstatements.org/files/buttons/InC.dark-white-interior.png\"/></a><p>© D.C.Thomson & Co. Ltd.</p><p>Deze afbeelding kan worden gevonden op de website van <a href=\"https://www.britishnewspaperarchive.co.uk/viewer/bl/0000576/19140729/050/0007\">The British Newspaper Archive</a>. Als je deze afbeelding zelf wil gebruiken, gelieve contact op te nemen met D.C.Thomson & Co. Ltd.</p>"
+            ]
+        }
+    },
+    "items": [
+        {
+            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/161/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Description"
+                        ],
+                        "nl": [
+                            "Beschrijving"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "Aberdeen Press and Journal page 7, 29.07.1914"
+                        ]
+                    }
+                }
+            ],
+            "height": 1024,
+            "width": 724,
+            "items": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/161/canvas/1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/161/annotation/1-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F161.tif/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F161.tif",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ],
+                                "height": 1024,
+                                "width": 724
+                            },
+                            "target": "https://imagehub.vlaamsekunstcollectie.be/iiif/3/161/canvas/1"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F161.tif/full/400,/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/public%2F161.tif",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
