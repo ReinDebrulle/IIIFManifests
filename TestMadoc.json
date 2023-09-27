@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://imagehub.mskgent.be/iiif/3/3342/manifest.json",
+    "id": "https://raw.githubusercontent.com/ReinDebrulle/IIIFManifests/main/TestMadoc.json",
     "type": "Manifest",
     "label": {
         "en": [
