@@ -1,14 +1,16 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://resourcespace.muzee.be/iiif/3/244/manifest.json",
+    "id": "https://imagehub.mskgent.be/iiif/3/3342/manifest.json",
     "type": "Manifest",
     "label": {
-        "none": [
-            "Duizeling"
+        "en": [
+            "Man with a Pipe"
+        ],
+        "nl": [
+            "Man met pijp"
         ]
     },
-    "metadata": [
-        {
+    "metadata": {
             "label": {
                 "none": [
                     "IIIF manifest"
@@ -16,11 +18,10 @@
             },
             "value": {
                 "none": [
-                    "<a href=\"https://resourcespace.muzee.be/iiif/3/244/manifest.json\">https://resourcespace.muzee.be/iiif/3/244/manifest.json</a>"
+                    "<a href=\"https://imagehub.mskgent.be/iiif/3/3342/manifest.json\">https://imagehub.mskgent.be/iiif/3/3342/manifest.json</a>"
                 ]
             }
-        }
-        ],
+        },
     "viewingDirection": "left-to-right",
     "behavior": [
         "individuals"
@@ -37,16 +38,16 @@
         },
         "value": {
             "en": [
-                "Public Domain - http://creativecommons.org/publicdomain/mark/1.0/<p><a href=\"http://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/88x31.png\"/></a></p><a href=\"https://www.muzee.be/en\">Mu.ZEE, Art Museum by the Sea</a><br>The original TIFF files of this work, in highest resolution and color-coded, can be ordered from <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo). If this image is used for a printed publication or a commercial product, Mu.ZEE would appreciate having three copies sent to Mu.ZEE, Romestraat 11, 8400 Oostende, Belgium. More information: <a href=\"mailto:collectie@muzee.be\">collectie@muzee.be</a>.</p>"
+                "<p><a href=\"http://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/88x31.png\"/></a></p><a href=\"https://www.mskgent.be/en\">Museum of Fine Arts Ghent</a><br><p>The original TIFF files of this work, in highest resolution and color-coded, can be ordered from <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo). If this image is used for a printed publication or a commercial product, MSK Gent would appreciate having three copies sent to MSK Gent, Hofbouwlaan 28, B-9000 Gent. More information: <a href=\"mailto:museum.msk@stad.gent\">museum.msk@stad.gent</a>.</p></p>"
             ],
             "nl": [
-                "Public Domain - http://creativecommons.org/publicdomain/mark/1.0/<p><a href=\"http://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/88x31.png\"/></a></p><a href=\"https://www.muzee.be/nl\">Mu.ZEE, Kunstmuseum aan zee</a><br>De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo). Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan vraagt Mu.ZEE dat drie exemplaren worden toegestuurd naar Mu.ZEE, Romestraat 11, 8400 Oostende. Meer info: <a href=\"mailto:collectie@muzee.be\">collectie@muzee.be</a>.</p>"
+                "<p><a href=\"http://creativecommons.org/publicdomain/mark/1.0/\"><img src=\"https://licensebuttons.net/p/mark/1.0/88x31.png\"/></a></p><a href=\"https://www.mskgent.be\">Museum voor Schone Kunsten Gent</a><br><p>De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be\">Art in Flanders</a> (meemoo). Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan vraagt MSK Gent dat drie exemplaren worden toegestuurd naar MSK Gent, Hofbouwlaan 28, B-9000 Gent. Meer info: <a href=\"mailto:museum.msk@stad.gent\">museum.msk@stad.gent</a>.</p></p>"
             ]
         }
     },
     "seeAlso": [
         {
-            "id": "http://10.205.2.30:8000/oai?verb=GetRecord&metadataPrefix=oai_lido&identifier=oai:datahub.muzee.be:muzee.be:SM000696",
+            "id": "https://datahub.mskgent.be/oai?verb=GetRecord&metadataPrefix=oai_lido&identifier=oai:datahub.mskgent.be:mskgent.be:1985-A-18-recto",
             "type": "Dataset",
             "label": {
                 "en": [
@@ -62,11 +63,14 @@
     ],
     "items": [
         {
-            "id": "https://resourcespace.muzee.be/iiif/3/244/canvas/1",
+            "id": "https://imagehub.mskgent.be/iiif/3/3342/canvas/1",
             "type": "Canvas",
             "label": {
-                "none": [
-                    "Duizeling"
+                "en": [
+                    "Man with a Pipe"
+                ],
+                "nl": [
+                    "Man met pijp"
                 ]
             },
             "metadata": [
@@ -80,8 +84,11 @@
                         ]
                     },
                     "value": {
-                        "none": [
-                            "Duizeling"
+                        "en": [
+                            "Man with a Pipe"
+                        ],
+                        "nl": [
+                            "Man met pijp"
                         ]
                     }
                 },
@@ -96,7 +103,7 @@
                     },
                     "value": {
                         "none": [
-                            "Spilliaert, Léon"
+                            "Tekenaar: De Bruycker, Jules"
                         ]
                     }
                 },
@@ -111,7 +118,7 @@
                     },
                     "value": {
                         "none": [
-                            "1908"
+                            "1940"
                         ]
                     }
                 },
@@ -126,22 +133,7 @@
                     },
                     "value": {
                         "none": [
-                            "SM000696"
-                        ]
-                    }
-                },
-                {
-                    "label": {
-                        "en": [
-                            "Photographer"
-                        ],
-                        "nl": [
-                            "Fotograaf"
-                        ]
-                    },
-                    "value": {
-                        "none": [
-                            "Decroos, Steven"
+                            "1985-A-18-recto"
                         ]
                     }
                 },
@@ -156,49 +148,49 @@
                     },
                     "value": {
                         "none": [
-                            "Wie vandaag in Oostende rondwandelt en zich tot net voorbij de Koninklijke Gaanderijen waagt, stuit op een postuum monument ter ere van Léon Spilliaert, gebaseerd op één van Spilliaerts topwerken,  De Duizeling. We zien een torenachtige constructie opgebouwd uit concentrische plateaus die opdoemt uit de duisternis. Een gesluierde vrouw tracht zich staande te houden en voert een gevecht tegen de wind. De trapniveaus zijn te hoog om zich snel uit de voeten te kunnen maken. De vrouw zit gevangen in een nachtmerrie, ontsnappen is geen optie. Léon Spilliaert creëert hier een visioen van afschuw en wanhoop. De vrouw klampt zich vast aan de duizelingwekkende trap, de angst heeft haar in zijn greep. De tekening balanceert op het scherpe contrast tussen licht en donker. Met gitzwarte Oost-Indische inkt, een iets zachtere aquarel en enkele rake witte krijtlijnen weet Spilliaert de essentie van de vertigo of duizeling te vatten."
+                            "Dit blad past in een reeks tekeningen die Jules De Bruycker maakte ter voorbereiding van de prentenalbums Gens de chez nous (1941) en Gens pas de chez nous (postuum uitgegeven in 1975)."
                         ]
                     }
                 }
             ],
-            "height": 9232,
-            "width": 6943,
+            "height": 3811,
+            "width": 4357,
             "items": [
                 {
-                    "id": "https://resourcespace.muzee.be/iiif/3/244/canvas/1/1",
+                    "id": "https://imagehub.mskgent.be/iiif/3/3342/canvas/1/1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://resourcespace.muzee.be/iiif/3/244/annotation/1-image",
+                            "id": "https://imagehub.mskgent.be/iiif/3/3342/annotation/1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://resourcespace.muzee.be/iiif/2/public%2F244.tif/full/full/0/default.jpg",
+                                "id": "https://imagehub.mskgent.be/iiif/2/public%2F3342.tif/full/full/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "service": [
                                     {
-                                        "@id": "https://resourcespace.muzee.be/iiif/2/public%2F244.tif",
+                                        "@id": "https://imagehub.mskgent.be/iiif/2/public%2F3342.tif",
                                         "@type": "ImageService2",
                                         "profile": "http://iiif.io/api/image/2/level1.json"
                                     }
                                 ],
-                                "height": 9232,
-                                "width": 6943
+                                "height": 3811,
+                                "width": 4357
                             },
-                            "target": "https://resourcespace.muzee.be/iiif/3/244/canvas/1"
+                            "target": "https://imagehub.mskgent.be/iiif/3/3342/canvas/1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "https://resourcespace.muzee.be/iiif/2/public%2F244.tif/full/400,/0/default.jpg",
+                    "id": "https://imagehub.mskgent.be/iiif/2/public%2F3342.tif/full/400,/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "service": [
                         {
-                            "id": "https://resourcespace.muzee.be/iiif/2/public%2F244.tif",
+                            "id": "https://imagehub.mskgent.be/iiif/2/public%2F3342.tif",
                             "@type": "ImageService2",
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
